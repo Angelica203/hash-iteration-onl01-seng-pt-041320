@@ -5,7 +5,7 @@
 # }
 
 def happy_birthday(birthday_kids)
-  birthday_kids => ""
+  birthday_kids => "Amanda Presley"
   # add your code snippet here!
 end
 
